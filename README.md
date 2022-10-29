@@ -571,4 +571,4 @@ you have trained your new model on the new data.
 
 ## License
 
-[License](LICENSE.txt)
+[License](LICENSE)
