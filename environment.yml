@@ -5,6 +5,7 @@ channels:
 dependencies:
   - mlflow=1.14.1
   - ipython=7.21.0
+  - cryptography==36.0.2
   - notebook=6.2.0
   - jupyterlab=3.0.10
   - cookiecutter=1.7.2
